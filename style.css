@@ -116,3 +116,7 @@ a {
 .r {
     margin-bottom: 0.6em;
 }
+i {
+    font-style: italic;
+    color: #aaa;
+}
